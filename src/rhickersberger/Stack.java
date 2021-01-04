@@ -6,6 +6,8 @@ import java.util.Arrays;
  * Ein generischer Stack/Stapel, der entweder eine bestimmte Größe haben kann, oder
  * dynamisch wachsen und schrumpfen kann.
  * @param <T> Der Datentyp der Objekte, die in diesem Stack gespeichert werden sollen.
+ * @author René Hickersberger
+ * @version 2021-01-04
  */
 public class Stack<T> {
     /**

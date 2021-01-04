@@ -3,7 +3,7 @@ package rhickersberger;
 /**
  * Testet den generischen Stapel.
  * @author René Hickersberger
- * @version 2020-01-04
+ * @version 2021-01-04
  */
 public class StackTest {
     /**
